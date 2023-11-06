@@ -1,0 +1,1 @@
+# Try to add new LocalRepo2 in git again"
